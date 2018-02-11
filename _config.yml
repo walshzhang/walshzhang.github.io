@@ -1,0 +1,9 @@
+title: 个人博客
+author: Walsh Zhang
+description: Since 2018.02.10. All rights reserved.
+theme: minima
+
+header_pages:
+  - about.md
+  
+github_username: walshzhang
