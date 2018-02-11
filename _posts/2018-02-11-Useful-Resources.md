@@ -13,3 +13,7 @@ categories: Resources
 ### Markdown
 * [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Jekyll
+* [Minima Theme](https://github.com/jekyll/minima)
+* [Jekyll Docs](https://jekyllrb.com/docs/)
