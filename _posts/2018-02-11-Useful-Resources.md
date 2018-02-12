@@ -17,3 +17,6 @@ categories: Resources
 ### Jekyll
 * [Minima Theme](https://github.com/jekyll/minima)
 * [Jekyll Docs](https://jekyllrb.com/docs/)
+
+### Java 9
+* [module-info.java详解](https://zhuanlan.zhihu.com/p/31074237)
